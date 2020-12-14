@@ -1,6 +1,6 @@
 {
-  "name": "rocket-labs/sellercenter-sdk-php",
-  "description": "SellerCenter SDK for PHP",
+  "name": "silicon-highland/sellercenter-sdk-php",
+  "description": "Jumia SellerCenter SDK for PHP",
   "license": "MIT",
   "require": {
     "php": ">=5.5",
